@@ -1,4 +1,4 @@
-# Machine Learning Model to predict customer churn using Apache Spark
+# Machine Learning Model to predict customer churn with Apache Spark
 Author: Thanujhaa Sriee A D (thanujhaa.sriee@gmail.com)</br>
 
 #### Case Study</br>
