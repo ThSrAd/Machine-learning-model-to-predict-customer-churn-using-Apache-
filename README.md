@@ -1,4 +1,4 @@
-# Machine Learning Model to predict customer churn for a music streaming service
+# Predict customer churn for a music streaming service with Spark
 Author: Thanujhaa Sriee A D (thanujhaa.sriee@gmail.com)</br>
 
 #### Case Study</br>
