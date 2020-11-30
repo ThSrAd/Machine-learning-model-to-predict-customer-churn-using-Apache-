@@ -22,3 +22,5 @@ The churn rate directly correlates with economy.Even if 1% of users churned in a
 
 #### Data Description:<br>
 This is a dataset from SanFrancisco Fire department, Calls-For-Service includes all fire units responses to calls.Each record includes the call number, incident number, address, unit identifier, call type, and disposition. All relevant time intervals are included.There are multiple records for each call number.Addresses are associated with a block number, intersection or call box, not a specific address.</br>
+
+This project was completed as a part of Udacity's Spark course
