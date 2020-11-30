@@ -1,5 +1,5 @@
-# Machine-learning-model-to-predict-customer-churn-using-Apache-Spark
-Author: (thanujhaa.sriee@gmail.com)</br>
+# Machine Learning Model to predict customer churn using Apache Spark
+Author: Thanujhaa Sriee A D (thanujhaa.sriee@gmail.com)</br>
 
 #### Case Study</br>
 Sparkify is a digital music streaming service provider whose users are able to stream their favorite songs or podcasts.The users can either avail a free tier for the service with advertisements or adverstisement free and offline listening with a premium subscription for a nominal monthly fee. The users are provided with an option to either upgrade, downgrade or cancel their subscription at any time.</br>
